@@ -1,0 +1,441 @@
+[{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34258"
+  },
+  "userId": 1,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34259"
+  },
+  "userId": 2,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3425a"
+  },
+  "userId": 3,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3425b"
+  },
+  "userId": 4,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3425c"
+  },
+  "userId": 5,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3425d"
+  },
+  "userId": 6,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3425e"
+  },
+  "userId": 7,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3425f"
+  },
+  "userId": 8,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34260"
+  },
+  "userId": 9,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34261"
+  },
+  "userId": 10,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34262"
+  },
+  "userId": 11,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34263"
+  },
+  "userId": 12,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34264"
+  },
+  "userId": 13,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34265"
+  },
+  "userId": 14,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34266"
+  },
+  "userId": 15,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34267"
+  },
+  "userId": 16,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34268"
+  },
+  "userId": 17,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34269"
+  },
+  "userId": 18,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3426a"
+  },
+  "userId": 19,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3426b"
+  },
+  "userId": 20,
+  "problemName": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3426c"
+  },
+  "userId": 1,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3426d"
+  },
+  "userId": 3,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3426e"
+  },
+  "userId": 4,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3426f"
+  },
+  "userId": 5,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34270"
+  },
+  "userId": 7,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34271"
+  },
+  "userId": 9,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34272"
+  },
+  "userId": 10,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34273"
+  },
+  "userId": 12,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34274"
+  },
+  "userId": 13,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34275"
+  },
+  "userId": 14,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34276"
+  },
+  "userId": 16,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34277"
+  },
+  "userId": 17,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34278"
+  },
+  "userId": 18,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34279"
+  },
+  "userId": 19,
+  "problemName": "Absolute Beginner"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3427a"
+  },
+  "userId": 1,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3427b"
+  },
+  "userId": 2,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3427c"
+  },
+  "userId": 3,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3427d"
+  },
+  "userId": 4,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3427e"
+  },
+  "userId": 6,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3427f"
+  },
+  "userId": 7,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34280"
+  },
+  "userId": 8,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34281"
+  },
+  "userId": 9,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34282"
+  },
+  "userId": 11,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34283"
+  },
+  "userId": 12,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34284"
+  },
+  "userId": 13,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34285"
+  },
+  "userId": 14,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34286"
+  },
+  "userId": 15,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34287"
+  },
+  "userId": 16,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34288"
+  },
+  "userId": 17,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34289"
+  },
+  "userId": 19,
+  "problemName": "Basics"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3428a"
+  },
+  "userId": 1,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3428b"
+  },
+  "userId": 2,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3428c"
+  },
+  "userId": 3,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3428d"
+  },
+  "userId": 5,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3428e"
+  },
+  "userId": 6,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f3428f"
+  },
+  "userId": 7,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34290"
+  },
+  "userId": 8,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34291"
+  },
+  "userId": 10,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34292"
+  },
+  "userId": 12,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34293"
+  },
+  "userId": 14,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34294"
+  },
+  "userId": 17,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34295"
+  },
+  "userId": 18,
+  "problemName": "Array"
+},
+{
+  "_id": {
+    "$oid": "65bc824d4e25014fe9f34296"
+  },
+  "userId": 20,
+  "problemName": "Array"
+}]

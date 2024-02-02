@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65bc86d84e25014fe9f34344"
+  },
+  "mentorId": 1,
+  "mentorName": "Thiru",
+  "mentorEmail": "thiru@gmail.com",
+  "menteeCount": 20
+},
+{
+  "_id": {
+    "$oid": "65bc86d84e25014fe9f34345"
+  },
+  "mentorId": 2,
+  "mentorName": "Sathish",
+  "mentorEmail": "sathish34@gmail.com",
+  "menteeCount": 16
+},
+{
+  "_id": {
+    "$oid": "65bc86d84e25014fe9f34346"
+  },
+  "mentorId": 3,
+  "mentorName": "Ramya",
+  "mentorEmail": "ramyaram45@gmail.com",
+  "menteeCount": 13
+},
+{
+  "_id": {
+    "$oid": "65bc86d84e25014fe9f34347"
+  },
+  "mentorId": 4,
+  "mentorName": "Nagarajan",
+  "mentorEmail": "naga094@gmail.com",
+  "menteeCount": 7
+}]

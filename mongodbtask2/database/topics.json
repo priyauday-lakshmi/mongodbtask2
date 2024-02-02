@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "65bc8b614e25014fe9f343e9"
+  },
+  "topicId": 1,
+  "topic": "RWD",
+  "topicDate": "2020-10-10"
+},
+{
+  "_id": {
+    "$oid": "65bc8b614e25014fe9f343ea"
+  },
+  "topicId": 2,
+  "topic": "Bootstrap",
+  "topicDate": "2020-10-11"
+},
+{
+  "_id": {
+    "$oid": "65bc8b614e25014fe9f343eb"
+  },
+  "topicId": 3,
+  "topic": "JS",
+  "topicDate": "2020-10-17"
+},
+{
+  "_id": {
+    "$oid": "65bc8b614e25014fe9f343ec"
+  },
+  "topicId": 4,
+  "topic": "Async Programming",
+  "topicDate": "2020-10-18"
+},
+{
+  "_id": {
+    "$oid": "65bc8b614e25014fe9f343ed"
+  },
+  "topicId": 5,
+  "topic": "React",
+  "topicDate": "2020-10-24"
+},
+{
+  "_id": {
+    "$oid": "65bc8b614e25014fe9f343ee"
+  },
+  "topicId": 6,
+  "topic": "React-Redux",
+  "topicDate": "2020-10-25"
+},
+{
+  "_id": {
+    "$oid": "65bc8b614e25014fe9f343ef"
+  },
+  "topicId": 7,
+  "topic": "MySQL",
+  "topicDate": "2020-10-31"
+},
+{
+  "_id": {
+    "$oid": "65bc8b614e25014fe9f343f0"
+  },
+  "topicId": 8,
+  "topic": "MongoDB",
+  "topicDate": "2020-11-01"
+}]
